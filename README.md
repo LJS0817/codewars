@@ -12,3 +12,4 @@
 ### 2026_01_04
 * [One Line Task: Count Down I](https://www.codewars.com/kata/58f85bb1985886b1b5000b6f)
 * [One Line Task: Count Down II](https://www.codewars.com/kata/58f85908bc60c645d5000095)
+* [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
