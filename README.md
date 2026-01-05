@@ -17,3 +17,4 @@
 ### 2026_01_05
 * [Assembler interpreter (part II)](https://www.codewars.com/kata/58e61f3d8ff24f774400002c)
 * [Simple Time Bomb](https://www.codewars.com/kata/523c7fbb0d47a759580000e2)
+* [WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d)
