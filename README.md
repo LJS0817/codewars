@@ -13,3 +13,7 @@
 * [One Line Task: Count Down I](https://www.codewars.com/kata/58f85bb1985886b1b5000b6f)
 * [One Line Task: Count Down II](https://www.codewars.com/kata/58f85908bc60c645d5000095)
 * [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
+* [Defuse the bombs!](https://www.codewars.com/kata/54d558c72a5e542c0600060f)
+### 2026_01_05
+* [Assembler interpreter (part II)](https://www.codewars.com/kata/58e61f3d8ff24f774400002c)
+* [Simple Time Bomb](https://www.codewars.com/kata/523c7fbb0d47a759580000e2)
