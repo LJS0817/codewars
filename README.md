@@ -18,3 +18,7 @@
 * [Assembler interpreter (part II)](https://www.codewars.com/kata/58e61f3d8ff24f774400002c)
 * [Simple Time Bomb](https://www.codewars.com/kata/523c7fbb0d47a759580000e2)
 * [WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d)
+### 2026_01_07
+* [Battleship field validator](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7)
+* [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+* [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
