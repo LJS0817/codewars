@@ -22,3 +22,6 @@
 * [Battleship field validator](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7)
 * [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 * [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
+### 2026_01_08
+* [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047)
+* [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
