@@ -25,3 +25,6 @@
 ### 2026_01_08
 * [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047)
 * [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
+### 2026_01_09
+* [Title Case](https://www.codewars.com/kata/5202ef17a402dd033c000009)
+* [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648)
