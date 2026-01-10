@@ -28,3 +28,12 @@
 ### 2026_01_09
 * [Title Case](https://www.codewars.com/kata/5202ef17a402dd033c000009)
 * [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648)
+### 2026_01_10
+* [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
+* [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
+* [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
+* [Can you get the loop ?](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863)
+* [The Vowel Code](https://www.codewars.com/kata/53697be005f803751e0015aa)
+* [Last digit of a large number](https://www.codewars.com/kata/5511b2f550906349a70004e1)
+* [Data Reverse](https://www.codewars.com/kata/569d488d61b812a0f7000015)
+* [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196)
