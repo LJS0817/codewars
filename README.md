@@ -37,3 +37,6 @@
 * [Last digit of a large number](https://www.codewars.com/kata/5511b2f550906349a70004e1)
 * [Data Reverse](https://www.codewars.com/kata/569d488d61b812a0f7000015)
 * [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196)
+### 2026_01_11
+* [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
+* [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048)
