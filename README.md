@@ -40,3 +40,7 @@
 ### 2026_01_11
 * [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
 * [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048)
+### 2026_01_13
+* [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
+* [Find the unknown digit](https://www.codewars.com/kata/546d15cebed2e10334000ed9)
+* [Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb)
