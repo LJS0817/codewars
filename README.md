@@ -44,3 +44,7 @@
 * [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 * [Find the unknown digit](https://www.codewars.com/kata/546d15cebed2e10334000ed9)
 * [Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb)
+### 2026_01_14
+* [Counting Change Combinations](https://www.codewars.com/kata/541af676b589989aed0009e7)
+* [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
+* [Simple Fun #159: Middle Permutation](https://www.codewars.com/kata/58ad317d1541651a740000c5)
