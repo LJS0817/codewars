@@ -55,3 +55,4 @@
 * [Breadcrumb Generator](https://www.codewars.com/kata/563fbac924106b8bf7000046)
 * [Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6)
 * [Thinking & Testing : Uniq or not Uniq](https://www.codewars.com/kata/56d949281b5fdc7666000004)
+* [Hangman game](https://www.codewars.com/kata/56832fb41676465e82000030)
