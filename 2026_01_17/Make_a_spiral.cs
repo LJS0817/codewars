@@ -1,4 +1,4 @@
-//
+//https://www.codewars.com/kata/534e01fbbb17187c7e0000c6
 /*
 Your task, is to create a NxN spiral with a given size.
 
