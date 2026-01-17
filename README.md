@@ -50,3 +50,6 @@
 * [Simple Fun #159: Middle Permutation](https://www.codewars.com/kata/58ad317d1541651a740000c5)
 ### 2026_01_16
 * [Mystery Function](https://www.codewars.com/kata/56b2abae51646a143400001d)
+### 2026_01_17
+* [Snakes and Ladders](https://www.codewars.com/kata/587136ba2eefcb92a9000027)
+* [Breadcrumb Generator](https://www.codewars.com/kata/563fbac924106b8bf7000046)
