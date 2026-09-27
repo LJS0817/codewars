@@ -56,3 +56,6 @@
 * [Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6)
 * [Thinking & Testing : Uniq or not Uniq](https://www.codewars.com/kata/56d949281b5fdc7666000004)
 * [Hangman game](https://www.codewars.com/kata/56832fb41676465e82000030)
+### 2026_09_27
+* [Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code)
+* [](https://www.codewars.com/kata/decode-the-morse-code-advanced)
